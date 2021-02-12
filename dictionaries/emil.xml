@@ -6,6 +6,7 @@
       <w>classname</w>
       <w>confparam</w>
       <w>confs</w>
+      <w>defs</w>
       <w>deps</w>
       <w>determinator</w>
       <w>elems</w>
@@ -29,11 +30,14 @@
       <w>relativities</w>
       <w>renderers</w>
       <w>sdtv</w>
+      <w>sdvs</w>
       <w>splitted</w>
       <w>stderr</w>
       <w>stdin</w>
       <w>stdout</w>
       <w>struct</w>
+      <w>stxs</w>
+      <w>syntaxes</w>
       <w>tcds</w>
       <w>testcase</w>
       <w>testsuite</w>
